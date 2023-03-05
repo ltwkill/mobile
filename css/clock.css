@@ -1,0 +1,15 @@
+.showTime { 
+    color: rgb(1, 255, 149);
+    font-weight:400;
+    font-size:23px;
+    justify-content:center;
+    display:flex !important;
+    /*border:rgba(34, 255, 0, 1) dashed 3px;*/
+    /*outline:rgb(255, 117, 4) solid 18px;*/
+    border-radius:768px 768px 768px 768px;
+    /*border-bottom:rgba(255, 111, 0, 1) none 12px !important;*/
+    transition-timing-function:linear;
+    transition-duration:3s;
+    transition-delay:0s;
+    transition-property:all; 
+  }
